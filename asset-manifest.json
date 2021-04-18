@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Calander/static/css/main.b629fd91.chunk.css",
-    "main.js": "/Calander/static/js/main.8733b057.chunk.js",
-    "main.js.map": "/Calander/static/js/main.8733b057.chunk.js.map",
+    "main.js": "/Calander/static/js/main.b43217e3.chunk.js",
+    "main.js.map": "/Calander/static/js/main.b43217e3.chunk.js.map",
     "runtime-main.js": "/Calander/static/js/runtime-main.3ad3c025.js",
     "runtime-main.js.map": "/Calander/static/js/runtime-main.3ad3c025.js.map",
-    "static/js/2.b17d33fd.chunk.js": "/Calander/static/js/2.b17d33fd.chunk.js",
-    "static/js/2.b17d33fd.chunk.js.map": "/Calander/static/js/2.b17d33fd.chunk.js.map",
+    "static/js/2.0d4e3ef8.chunk.js": "/Calander/static/js/2.0d4e3ef8.chunk.js",
+    "static/js/2.0d4e3ef8.chunk.js.map": "/Calander/static/js/2.0d4e3ef8.chunk.js.map",
     "static/js/3.9c04b237.chunk.js": "/Calander/static/js/3.9c04b237.chunk.js",
     "static/js/3.9c04b237.chunk.js.map": "/Calander/static/js/3.9c04b237.chunk.js.map",
     "index.html": "/Calander/index.html",
     "static/css/main.b629fd91.chunk.css.map": "/Calander/static/css/main.b629fd91.chunk.css.map",
-    "static/js/2.b17d33fd.chunk.js.LICENSE.txt": "/Calander/static/js/2.b17d33fd.chunk.js.LICENSE.txt"
+    "static/js/2.0d4e3ef8.chunk.js.LICENSE.txt": "/Calander/static/js/2.0d4e3ef8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3ad3c025.js",
-    "static/js/2.b17d33fd.chunk.js",
+    "static/js/2.0d4e3ef8.chunk.js",
     "static/css/main.b629fd91.chunk.css",
-    "static/js/main.8733b057.chunk.js"
+    "static/js/main.b43217e3.chunk.js"
   ]
 }
